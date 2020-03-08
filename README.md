@@ -1,0 +1,2 @@
+# Twitter-Sentiment-Analysis
+This is a pure backend project which aims at predicting Twitter tweets as positive negative or neutral using ML model with toxicity percentage mentioned .It also provides deletion features of tweets of a user which includes deleting specific tweets,deleting negative tweets or deleting all tweets of a user.The user data is extracted using twitter apis which will require access key ,access secret key,consumer key and consumer secret key.
